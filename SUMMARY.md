@@ -2,7 +2,7 @@
 
 * [软件说明书](README.md)
 * c++
-  * [c++ tricks](c++/c++-tricks.md)
+  * [functions](c++/c++-tricks.md)
   * [fftw3](c++/fftw3.md)
   * [hdf5](c++/hdf5.md)
 * [python](python3/README.md)

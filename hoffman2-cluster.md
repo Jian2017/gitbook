@@ -1,23 +1,30 @@
 # hoffman2 cluster
 
-## submit a c++ program
+## run a simple C++ program
 
-Becoming a super hero is a fairly straight forward process:
+### method 1
 
-```
-$ give me super-powers
-```
+submit directly as your own PC
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+### method 2
 
-Once you're strong enough, save the world:
+write a script, submit and run in back ground
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+### method 3
+
+use hoffman2 tools, job.q
+
+
+
+## run many C++ programs
+
+
+
+
+
+## run python 
+
+## run Matlab
 
 
 

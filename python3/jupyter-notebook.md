@@ -25,6 +25,10 @@ jupyter: command not found
 3. B远端登录
 4. B的浏览器输入 `A的ip地址:设置的端口`
 
+{% hint style="info" %}
+jupyter notebook的console必须一直开着。A主机的一直在运行。
+{% endhint %}
+
 资料：
 
 {% embed data="{\"url\":\"https://zhuanlan.zhihu.com/p/30845372\",\"type\":\"link\",\"title\":\"如何在window访问ubuntu服务器的jupyter notebook\",\"description\":\"弄了一早上，写点东西记录下。首先是安装pip install jupyter //这命令默认使用的是Python2.7.5版本安装；  or  conda install jupyter //如果你装了anaconda，可以用这个 生成配置文件$jupyter notebook --genera…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.zhihu.com/static/favicon.ico\",\"aspectRatio\":0}}" %}

@@ -4,7 +4,7 @@
 * c++
   * [fftw3](c++/fftw3.md)
   * [hdf5](c++/hdf5.md)
-* [python3](python3/README.md)
+* [python](python3/README.md)
   * [Jupyter Notebook](python3/jupyter-notebook.md)
 * Git
   * [单机版](git/dan-ji-ban.md)

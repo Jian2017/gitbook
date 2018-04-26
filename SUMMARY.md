@@ -10,4 +10,5 @@
   * [单机版](untitled/git-zong-jie.md)
   * [联网版](untitled/github-zong-jie.md)
   * [资料网站](untitled/wen-dang.md)
+* [hoffman2 cluster](hoffman2-cluster.md)
 

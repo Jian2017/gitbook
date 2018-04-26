@@ -1,6 +1,6 @@
 # c++ tricks
 
-## array as input 
+## array as input and output
 
 ### example 1, 
 

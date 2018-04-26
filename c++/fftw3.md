@@ -1,7 +1,3 @@
----
-description: Fastest Fourier Transform in the West
----
-
 # fftw3
 
 ## example

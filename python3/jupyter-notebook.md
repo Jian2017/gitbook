@@ -1,7 +1,3 @@
----
-description: Jupyter Notebook 使用了浏览器作为编辑环境，给大家造成一种网上冲浪的错觉。
----
-
 # Jupyter Notebook
 
 ## 安装
@@ -17,6 +13,8 @@ jupyter: command not found
 ```bash
 ~/.local/bin/jupyter-notebook
 ```
+
+另外，按照Jupyter官网上的步骤，使用pip3会失败，应该使用python2 对应的pip 安装可成功。
 
 ## 远程登录
 

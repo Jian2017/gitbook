@@ -16,6 +16,8 @@ Git 的工作单位是一个文件夹　及其里面的文件
 
 `git commit `
 
+![](../.gitbook/assets/image.png)
+
 ## 查询状态
 
 ```text

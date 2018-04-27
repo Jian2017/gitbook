@@ -6,6 +6,24 @@ description: >-
 
 # hdf5
 
+## Append data to hdf5 data
+
+Monte Carlo data can be stored in such a manner:
+
+```python
+import h5py
+import numpy
+f = h5py.File("mytestfile3.hdf5", "a")
+L=8
+N=3
+s=numpy.random.choice(a=[False, True], size=(L,N), p=[0.5,0.5])
+dset = f.create_dataset("bigBOOL",data=s,chunks=True,maxshape=(None, 33))
+for i in range(10):
+    dset.resize(dset.shape[1]+N, axis=1)
+    dset[:,-3:]=s
+f.close()
+```
+
 ## create a file
 
 ```python

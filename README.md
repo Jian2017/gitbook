@@ -4,9 +4,7 @@ description: 我主要做凝聚态物理数值计算　常用的软件配置　�
 
 # 软件说明书
 
-## $$a \sum 0$$ 
-
-
+## $$ \sum $$ 
 
 ## software overview
 

@@ -14,4 +14,5 @@
   * [联网版](git/lian-wang-ban.md)
   * [资料网站](git/zi-liao-wang-zhan.md)
 * [hoffman2 cluster](hoffman2-cluster.md)
+* [templates](templates.md)
 

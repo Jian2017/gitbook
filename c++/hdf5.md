@@ -1,9 +1,3 @@
----
-description: >-
-  I tried c++ in the beginning, but switched to python. h5py is much friendly to
-  use.
----
-
 # hdf5
 
 ## Append data to hdf5 data
